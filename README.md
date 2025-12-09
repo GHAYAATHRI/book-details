@@ -1,1 +1,2 @@
-# book-details
+# book-detail
+Description: This webpage was built using HTML, CSS, and JavaScript, featuring a responsive layout with styled components and interactive UI elements. The design maintains readability, clean alignment, and structured presentation, showing how front-end technologies create an engaging interface. It serves as a strong beginner-level project demonstrating essential front-end fundamentals.
